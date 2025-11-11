@@ -1,4 +1,4 @@
-Week 2 – Exploratory Data Analysis & Machine Learning
+**Week 2 – Exploratory Data Analysis & Machine Learning**
 
 Performed visual analysis using Matplotlib and Seaborn
 
@@ -15,7 +15,7 @@ Evaluated with R², MAE, MSE
 Saved trained models → price_model.pkl, range_model.pkl
 📁 Script: Week2_Electric_Vehicles_ML.py
 
-🧠 Technologies Used
+**🧠 Technologies Used**
 
 Python 🐍
 
@@ -27,26 +27,26 @@ Scikit-learn
 
 Jupyter / Google Colab
 
-🧩 How to Run the Project
-Step 1️⃣: Clone the repository
+**🧩 How to Run the Project**
+**Step 1️⃣:** **Clone the repository**
 git clone https://github.com/<your-username>/electric-vehicles-ai-internship.git
 cd electric-vehicles-ai-internship
 
-Step 2️⃣: Install dependencies
+**Step 2️⃣:** **Install dependencies**
 pip install -r requirements.txt
 
-Step 3️⃣: Run the scripts
+**Step 3️⃣:** **Run the scripts**
 
-For Week-1 cleaning:
+**For Week-1 cleaning:**
 
 python Week1_Electric_Vehicles_Cleaning.py
 
 
-For Week-2 ML model:
+**For Week-2 ML model:**
 
 python Week2_Electric_Vehicles_ML.py
 
-📊 Output Files
+**📊 Output Files**
 
 cleaned_electric_vehicles_2025.csv – cleaned dataset
 
