@@ -31,8 +31,7 @@ Jupyter / Google Colab
 
 **Step 1️⃣:** **Clone the repository**
 
-git clone https://github.com/<your-username>/electric-vehicles-ai-internship.git
-cd electric-vehicles-ai-internship
+git clone https://github.com/Neelima-git-collab/Week-2.git
 
 **Step 2️⃣:** **Install dependencies**
 
