@@ -28,11 +28,14 @@ Scikit-learn
 Jupyter / Google Colab
 
 **🧩 How to Run the Project**
+
 **Step 1️⃣:** **Clone the repository**
+
 git clone https://github.com/<your-username>/electric-vehicles-ai-internship.git
 cd electric-vehicles-ai-internship
 
 **Step 2️⃣:** **Install dependencies**
+
 pip install -r requirements.txt
 
 **Step 3️⃣:** **Run the scripts**
